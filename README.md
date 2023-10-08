@@ -22,8 +22,10 @@ Creating an elegant and effective clone of Youtube utilizing HTML, CSS, JS and m
   <li>React Router system to navigate between pages.</li>
   <li>React Player to watch videos more efficiently than the iframe method.</li>
   <li>Responsive Design for all kinds of devices.</li>
-  <li>Requiring smaller numbers of API requests.</li>
+  <li>Requiring smaller number of API requests.</li>
 </ol>
+
+<br/>
 
 <h3>Tech and Libraries Used:</h3>
 
