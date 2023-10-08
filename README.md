@@ -10,7 +10,7 @@ put gif here
 Creating an elegant and effective clone of Youtube utilizing HTML, CSS, JS and most importantly the React.js library.
 
 
-<h2>Main Points:</h2>
+<h3>Main Points:</h3>
 
 <ol>
   <li>Using an API to fetch videos from YouTube.</li>
@@ -22,7 +22,7 @@ Creating an elegant and effective clone of Youtube utilizing HTML, CSS, JS and m
   <li>Requiring smaller numbers of API requests.</li>
 </ol>
 
-<h2>Tech and Libraries Used:</h2>
+<h3>Tech and Libraries Used:</h3>
 
 <ol>
   <li>JavaScript</li>
