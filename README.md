@@ -8,7 +8,9 @@ put gif here
 <h2>GOAL:</h2>
 
 Creating an elegant and effective clone of Youtube utilizing HTML, CSS, JS and most importantly the React.js library.
+
 <br/>
+
 <br/>
 
 <h3>Main Points:</h3>
