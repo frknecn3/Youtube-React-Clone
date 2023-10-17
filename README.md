@@ -5,6 +5,8 @@
 
 put gif here
 
+Deployed Live Project: https://frknecn3-youtube.netlify.app/
+
 <h2>GOAL:</h2>
 
 Creating an elegant and effective clone of Youtube utilizing HTML, CSS, JS and most importantly the React.js library.
